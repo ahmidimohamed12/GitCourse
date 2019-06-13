@@ -1,4 +1,4 @@
 # GitCourse
 from ahmidigit course
 
-##Project Ahmidi Mohamed
+## Project Ahmidi Mohamed
